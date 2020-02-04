@@ -2,7 +2,7 @@
 
 #quote-box {
   width: 450px;
-  background-color: #fff;
+  background-color: $white;
   padding: 20px 45px 40px 45px;
   border-radius: 7px;
 
@@ -15,7 +15,7 @@
   #tweet-quote {
     background-color: var(--background);
     font-size: $small-size;
-    color: #fff;
+    color: $white;
     padding: 10px 10px;
     border-width: 1px;
     border-radius: 5px;
@@ -28,7 +28,7 @@
     text-align: center;
     border-width: 1px;
     border-radius: 5px;
-    color: #fff;
+    color: $white;
     float: right;
     cursor: pointer;
 

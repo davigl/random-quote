@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { random } from "../../utils";
-import quotes from "../../mock/data.js";
+import { colors, quotes } from "../../mock/data.js";
 
 import "./styles.scss";
 
@@ -9,16 +9,6 @@ const QuoteBox = () => {
   const [currentTweet, setCurrentTweet] = useState("");
 
   const newQuote = () => {
-    const colors = [
-      "#9b59b6",
-      "#342224",
-      "#f39c12",
-      "#b8965f",
-      "#4db8d6",
-      "#b44dd6",
-      "#e6dd63",
-      "#e67f63"
-    ];
     const randomColor = colors[Math.floor(random(0, colors.length - 1))];
     const randomQuote = quotes[Math.floor(random(0, quotes.length - 1))];
     const tweet = `https://twitter.com/intent/tweet?hashtags=quotes&text="${randomQuote.quote}" ${randomQuote.author}`;

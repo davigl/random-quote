@@ -1,4 +1,28 @@
-const quotes = [
+/**
+ * Colors to change some elements when switching quotes.
+ */
+
+export const colors = [
+  "#9b59b6",
+  "#342224",
+  "#f39c12",
+  "#BC9EC1",
+  "#4db8d6",
+  "#731DD8",
+  "#1F2232",
+  "#e67f63",
+  "#A26769",
+  "#7DC95E",
+  "#E18AD4",
+  "#131515",
+  "#26547C"
+];
+
+/**
+ * Quote Data.
+ */
+
+export const quotes = [
   {
     quote: "Life isn’t about getting and having, it’s about giving and being.",
     author: "Kevin Kruse"
@@ -465,5 +489,3 @@ const quotes = [
     author: "Zig Ziglar"
   }
 ];
-
-export default quotes;
