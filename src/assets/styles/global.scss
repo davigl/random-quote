@@ -1,0 +1,28 @@
+@import "./partials/colors";
+@import "./partials/sizes";
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  vertical-align: baseline;
+}
+
+@font-face {
+  font-family: Neuzeit;
+  src: url('../fonts/NeuzeitGrotesk.otf') format('opentype');
+}
+
+body {
+  font-family: Neuzeit, 'open-sans', 'verdana';
+  transition: background-color 1s linear,
+            left .6s ease-out 1s,
+            transform 1s steps(3, start);
+  background-color: var(--background);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+button:focus { outline: none; }

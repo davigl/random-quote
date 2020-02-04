@@ -1,0 +1,62 @@
+@import "../../assets/styles/global.scss";
+
+#quote-box {
+  width: 450px;
+  background-color: #fff;
+  padding: 20px 45px 40px 45px;
+  border-radius: 7px;
+
+  #medias {
+    margin-top: 40px;
+    margin-left: 40px;
+    padding-bottom: 30px;
+  }
+  
+  #tweet-quote {
+    background-color: var(--background);
+    font-size: $small-size;
+    color: #fff;
+    padding: 10px 10px;
+    border-width: 1px;
+    border-radius: 5px;
+    float: left;
+  }
+
+  #new-quote {
+    background-color: var(--background);
+    padding: 10px 20px;
+    text-align: center;
+    border-width: 1px;
+    border-radius: 5px;
+    color: #fff;
+    float: right;
+    cursor: pointer;
+
+    &:active {
+      position: relative;
+      top: 1px;
+    }
+  }
+
+  #text {
+    padding: 15px;
+    
+    p {
+      transition: color .6s ease, font-size .3s linear;
+      color: var(--background);
+      font-size: $large-size;
+      text-align: center;
+    }
+  }
+
+  #author {
+    text-align: right;
+    margin-top: 15px;
+    
+    p {
+      color: var(--background);
+      font-size: $medium-size;
+    }
+  }
+}
+
