@@ -9,6 +9,7 @@ How it looks like? :thinking:
 <div align="center">
 
 ![](https://i.imgur.com/VkNJtkk.gif)
+
 *Random Quote Machine*
 
 </div>
