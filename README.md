@@ -6,7 +6,12 @@ Front End Libraries Projects - Build a Random Quote Machine
 How it looks like? :thinking:
 </h2>
 
+<div align="center">
+
 ![](https://i.imgur.com/VkNJtkk.gif)
+*Random Quote Machine*
+
+</div>
 
 <h2>
 License
