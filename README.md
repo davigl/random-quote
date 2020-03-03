@@ -1,9 +1,9 @@
 <h1 align="center">
-Front End Libraries Projects - Build a Random Quote Machine
+React Random Quote Machine
 </h1>
 
 <h2>
-how does it looks? :thinking:
+How does it looks? :thinking:
 </h2>
 
 <div align="center">
