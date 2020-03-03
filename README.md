@@ -3,7 +3,7 @@ Front End Libraries Projects - Build a Random Quote Machine
 </h1>
 
 <h2>
-How it looks like? :thinking:
+how does it looks? :thinking:
 </h2>
 
 <div align="center">
