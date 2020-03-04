@@ -1,7 +1,6 @@
 ## 📖 React Random Quote Machine
 
-🔮 Generate and Tweet your favorites random quotes. Visit the project by clicking [here](hhttps://eudavi-random-quote.netlify.com/).
-
+🔮 Generate and Tweet your favorites random quotes. Visit the project by clicking [here](https://eudavi-random-quote.netlify.com/).
 
 ***
 
