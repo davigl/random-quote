@@ -2,6 +2,7 @@
 
 🔮 Generate and Tweet your favorites random quotes. Visit the project by clicking [here](hhttps://eudavi-random-quote.netlify.com/).
 
+
 ***
 
 ### How does it looks? :thinking:
