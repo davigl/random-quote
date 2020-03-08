@@ -1,5 +1,5 @@
 <h1 align="center">
-  📖 React Random Quote Machine
+  <img alt="📖 React Random Quote Machine" src="https://i.imgur.com/QR8c81X.png" />
   <br>
 </h1>
 
